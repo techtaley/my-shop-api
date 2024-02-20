@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_media",
+  "info": {
+    "displayName": "Media",
+    "icon": "cast"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

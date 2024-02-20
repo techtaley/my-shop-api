@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_variants",
+  "info": {
+    "displayName": "Variant",
+    "icon": "brush"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string"
+    }
+  }
+}
